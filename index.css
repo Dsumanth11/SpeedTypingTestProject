@@ -1,0 +1,63 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.timerInSeconds {
+    font-size: 30px;
+    margin-top: 10px;
+}
+
+#speedTypingTest {
+    background-color: #dac0ff;
+}
+
+.seconds {
+    font-size: 12px;
+}
+
+.watchimg {
+    height: 50px;
+    margin-left: 15px;
+}
+
+.main-heading {
+    color: #690cb0;
+    font-weight: bold;
+}
+
+.onfingerspara {
+    color: #3e4c59;
+    font-family: "Roboto";
+    font-size: 15px;
+    font-weight: 500;
+    margin-top: 15px;
+}
+
+.cardTyping {
+    background-color: #f2ebfe;
+    /* height: 100px; */
+    border-radius: 10px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #9aa5b1;
+    padding: 20px;
+}
+
+#submitBtn {
+    background-color: #690cb0;
+    color: white;
+}
+
+#resetBtn {
+    background-color: #ffffff;
+}
+
+.bittuSumanth {
+    font-size: 25px;
+    font-style: italic;
+}
+
+.SocialMediaIcon {
+    font-size: 25px;
+}
+textarea{
+    width:100%;
+}
